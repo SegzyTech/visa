@@ -1,4 +1,5 @@
 #Deploying a python web application
 #echo "hello world"
-python ("hello world")
-
+#shell script
+print ('hello world')
+#python script
